@@ -3,7 +3,8 @@ p {
     width: 500px;
     border: 1px solid black;
 }
-
 h1{
-    color: blue;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
 }
